@@ -1,0 +1,11 @@
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser.deps.json
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser.runtimeconfig.json
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser.runtimeconfig.dev.json
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser.dll
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp3.0/NumberGuesser.pdb
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp3.0/NumberGuesser.csprojAssemblyReference.cache
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp3.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp3.0/NumberGuesser.AssemblyInfo.cs
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp3.0/NumberGuesser.dll
+/Users/yuhangxiong/Desktop/number_guesser/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp3.0/NumberGuesser.pdb
